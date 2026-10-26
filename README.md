@@ -23,7 +23,7 @@ Building AI • Backend • ML • Computer Vision
 ### 🚀 About
 
 ```cpp
-class OmMishra {
+class {
 public:
     string studying = "Electronics @ IIT (BHU)";
     vector<string> interests = {
