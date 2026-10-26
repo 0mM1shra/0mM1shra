@@ -1,9 +1,9 @@
 <h1 align="center">
-Om Mishra 💫
+💫
 </h1>
 
 <p align="center">
-🎓 Electronics Engineering @ IIT (BHU) Varanasi
+🎓 
 </p>
 
 <p align="center">
